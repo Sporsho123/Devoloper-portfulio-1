@@ -7,7 +7,7 @@ h1{
 .orange-color{
     color: orange;
 }
-section{
+.mission{
     display: flex;
 }
 .half-width{
@@ -24,4 +24,29 @@ section{
     color:white;
     font-weight: 700;
     border-radius: 5px;
+}
+.orange-color{
+    color: orange;
+}
+.mission_head{
+    text-align: center;
+}
+.three_part{
+    display: flex;
+}
+
+.anything{
+   width: 30%;
+   background-color:#d1d1d1 ;
+   margin: 0px 10px;
+}
+.anything img{
+    width: 60%;
+}
+.anything h1{
+    padding-left: 10px;
+}
+.anything p{
+    width: 400px;
+    padding-left: 10px;
 }
