@@ -84,3 +84,18 @@ margin-top: 100px ;
     background-repeat: no-repeat;
     background-position-x: right;
 }
+footer h1{
+    text-align: center;
+    color: white;  
+}
+  footer p{
+    text-align: center;
+    color: white;
+  }
+#red-color{
+      color: rgb(88, 2, 2);
+  }
+footer{
+    background-color: black;
+    height: 400px;
+}
